@@ -2,7 +2,7 @@
 - 👀 I’m interested in Tech and coding 
 - 🌱 I’m currently learning C++ Advance
 - 💞️ I’m looking to collaborate on startups or companies under Software Development Engineering categories 
-- 📫 How to reach me ...
+- 📫 Reach me using www.linkedin.com/in/amarjeetv03
 
 <!---
 amarjeet0308/amarjeet0308 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amarjeet
 - 👀 I’m interested in Tech and coding 
 - 🌱 I’m currently learning C++ Advance
-- 💞️ I’m looking to collaborate on startups or companies under Software Development Engineering categories 
+- 💞️ I’m looking to collaborate with startups or product based companies under Software Development Engineering categories 
 - 📫 Reach me using www.linkedin.com/in/amarjeetv03
 
 <!---
